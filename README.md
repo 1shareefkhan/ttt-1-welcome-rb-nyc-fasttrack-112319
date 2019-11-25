@@ -1,4 +1,4 @@
-learn
+ruby lib/welcome.rb learn
 
 # Welcome Message for Tic Tac Toe
 
